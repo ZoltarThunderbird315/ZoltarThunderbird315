@@ -1,4 +1,4 @@
-![Visitor Count](https://profile-counter.glitch.me/ZoltarThunderbird315/count.svg)
+Number of jobless people have who had nothing better to do: - ![Visitor Count](https://profile-counter.glitch.me/ZoltarThunderbird315/count.svg)
 
 
 **Describing myself in a single line: -**
