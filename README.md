@@ -5,6 +5,12 @@
 
 > *Sometimes my genius is ..... it's almost frightening*
 
+1. Currently I am working ML and DL projects
+2. I am learning C# scripting and Unity Scripting
+3. Also learning Google Cloud
+4. Linkedin: - https://www.linkedin.com/in/rahul-dit-807b52170/
+5. My blogs: - https://medium.com/ieeesrmist/are-neural-networks-making-us-lazier-c0f22cc3aba4
+
 
 
 <a href="https://github.com/ZoltarThunderbird315">
