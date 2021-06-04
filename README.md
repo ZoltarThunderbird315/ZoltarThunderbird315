@@ -6,6 +6,7 @@
 4. Linkedin: - https://www.linkedin.com/in/rahul-dit-807b52170/
 5. My blogs: - https://linktr.ee/rahuldit
 
+![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZoltarThunderbird315&hide=contribs,prs)
 
 <a href="https://github.com/ZoltarThunderbird315">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ZoltarThunderbird315&layout=compact&theme=radical" />
