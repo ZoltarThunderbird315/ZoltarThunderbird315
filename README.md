@@ -2,7 +2,6 @@
 
 1. Currently I am working ML and DL projects
 2. Working on Algorithms and Data Structures
-3. I am learning C# scripting and Unity Scripting
 4. Also learning Google Cloud
 5. Linkedin: - https://www.linkedin.com/in/rahul-dit-807b52170/
 6. My blogs: - https://linktr.ee/rahuldit
