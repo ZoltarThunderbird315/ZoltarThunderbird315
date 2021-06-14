@@ -6,12 +6,9 @@
 5. Linkedin: - https://www.linkedin.com/in/rahul-dit-807b52170/
 6. My blogs: - https://linktr.ee/rahuldit
 
-<br>
-<div align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=ZoltarThunderbird315&theme=flat&no-frame=true&margin-w=30" />
-</div>
-<!-- It is https://yhype.me/ views count tracker, please remove it or use your own -->
-![](https://hit.yhype.me/github/profile?user_id=65885548)
+ ![Rahul's github stats](https://github-readme-stats.vercel.app/api?username=ZoltarThunderbird315&show_icons=true&theme=radical)
+
+ [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZoltarThunderbird315&layout=compact)](https://github.com/ZoltarThunderbird315/github-readme-stats)
 
 
 
